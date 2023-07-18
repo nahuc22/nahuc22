@@ -1,6 +1,6 @@
 ![](assets/header.png)
 
-<h1 align="center">Hi there, I'm Mehdi Hadeli 👋</h1>
+<h1 align="center">Hi there, I'm Nahuel Castilla 👋</h1>
 
 I'm a software engineer, specializing in backend development and distributed systems. I have extensive experience in designing and implementing resilient, responsive, scalable, and maintainable systems using C#, .NET, Golang on top of cutting-edge technologies. My interests include microservices, system design, software architecture, domain driven design (DDD), event sourcing, CQRS, DevOps. I love learning, sharing, and facing challenges. Last but not least, I am also an open-source enthusiast.
 
@@ -34,9 +34,14 @@ I'm a software engineer, specializing in backend development and distributed sys
     <a href="https://es.react.dev/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="54" height="54" style="vertical-align:top; margin:4px;">
     </a>
+    <style>
+    .logo-inverted {
+        filter: invert(1);
+    }
+    </style>
     <a href="https://expressjs.com/es/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" width="54" height="54" style="vertical-align:top; margin:4px;">
-    </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" width="54" height="54" style="vertical-align:top; margin:4px;" class="logo-inverted">
+    </a>    
     <a href="https://dotnet.microsoft.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="54"
             height="54" alt="dotnet" style="vertical-align:top; margin:4px;">
