@@ -36,24 +36,27 @@ I'm a software engineer, specializing in backend development and distributed sys
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
             width="54" height="54" alt="postgres" style="vertical-align:top; margin:4px">
     </a>
-    <a href="https://www.mongodb.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="54"
-            height="54" alt="mongodb" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="54"
-            height="54" alt="angular" style="vertical-align:top; margin:4px">
-    </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" alt="Sequelize" width="54" height="54" style="vertical-align:top; margin:4px;">
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="54"
             height="54" alt="javascript" style="vertical-align:top; margin:4px">
     </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="54" height="54" style="vertical-align:top; margin:4px;">
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="54"
+            height="54" alt="angular" style="vertical-align:top; margin:4px">
+    </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="54" height="54" style="vertical-align:top; margin:4px;">
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
             alt="typescript" width="54" height="54" style="vertical-align:top; margin:4px;">
     </a>
     <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="54" height="54" style="vertical-align:top; margin:4px;">
+    </a>
+    <a href="https://www.mongodb.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="54"
+            height="54" alt="mongodb" style="vertical-align:top; margin:4px;">
     </a>
 </p>
 
