@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Nahuel Castilla 👋</h1>
 
-I'm a software engineer, specializing in backend development and distributed systems. I have extensive experience in designing and implementing resilient, responsive, scalable, and maintainable systems using C#, .NET, Golang on top of cutting-edge technologies. My interests include microservices, system design, software architecture, domain driven design (DDD), event sourcing, CQRS, DevOps. I love learning, sharing, and facing challenges. Last but not least, I am also an open-source enthusiast.
+As a Fullstack developer, I am capable of designing, developing, and deploying web and mobile applications that meet client needs and provide an exceptional user experience. With skills in multiple programming languages and tools, I have the ability to work on both the frontend and backend layers, allowing me to have a comprehensive view of the project and work on all its stages.
 
 <p align="center"> 
  <a href="https://instagram.com/nahucastilla_" alt="Instagram">
