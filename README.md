@@ -6,7 +6,7 @@ I'm a software engineer, specializing in backend development and distributed sys
 
 <p align="center"> 
  <a href="https://instagram.com/nahucastilla_" alt="Instagram">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="30" height="30" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/instagram-green?style=for-the-badge&logo=instagram" alt="Instagram" width="30" height="30" style="margin-right: 10px;">
 </a>
  <a href="https://github.com/nahuc22" alt="nahuel castilla github">
    <img src="https://img.shields.io/badge/%20-GitHub-black?logo=GitHub&logoColor=white&style=for-the-badge" />
