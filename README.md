@@ -18,7 +18,7 @@ I'm a software engineer, specializing in backend development and distributed sys
    <img src="tps://img.shields.io/badge/%20-Blog-%23FF5722?logo=blogger&logoColor=white&style=for-the-badge" />
  </a>
  <a>
-   <img src="https://komarev.com/ghpvc/?username=mehdihadeli&color=ff69b4&style=for-the-badge" />
+   <img src="https://komarev.com/ghpvc/?username=nahuc22&color=ff69b4&style=for-the-badge" />
  </a>
 </p>
 
@@ -31,6 +31,7 @@ I'm a software engineer, specializing in backend development and distributed sys
     <a href="https://es.react.dev/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="54" height="54" style="vertical-align:top; margin:4px;">
     </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="54" height="54" style="vertical-align:top; margin:4px;">
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
             width="54" height="54" alt="postgres" style="vertical-align:top; margin:4px">
@@ -64,17 +65,11 @@ I'm a software engineer, specializing in backend development and distributed sys
   I always make sure that I find enough time for open source contribution that also helps me expand my knowledge and work with other developers and team globally. here are some of my projects:
 </p>
 
-- 🛍️ [mehdihadeli/ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices)
-- 🧺 [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices)
-- 🚃 [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR)
-- ⚡ [FastEndpoints/FastEndpoints - Contributer](https://github.com/FastEndpoints/FastEndpoints)
-- 🐉 [mehdihadeli/vertical-slice-api-template](https://github.com/mehdihadeli/vertical-slice-api-template)
-- 📙 [davidfowl/TodoApi - Contributer](https://github.com/davidfowl/TodoApi)
-- 🚀 [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
-- 🪣 [mehdihadeli/ecommerce-modular-monolith](https://github.com/mehdihadeli/ecommerce-modular-monolith)
-- 🎬 [mehdihadeli/movie-search-application](https://github.com/mehdihadeli/movie-search-application)
-- 🧪 [mehdihadeli/tdd-sample](https://github.com/mehdihadeli/tdd-sample)
-- 🥷 [mehdihadeli/go-vertical-slice-template](https://github.com/mehdihadeli/go-vertical-slice-template)
+- 🚀 [nahuc22/Proyecto-final](https://github.com/nahuc22/Proyecto-final)
+- ⚡ [nahuc22/pokemon](https://github.com/nahuc22/pokemon)
+- 🌎 [nahuc22/countries](https://github.com/nahuc22/countries)
+- 🧪 [nahuc22/rickimorti](https://github.com/nahuc22/rickimorti)
+- 📁 [nahuc22/portfolio](https://github.com/nahuc22/portfolio)
 
 <h2 align="center">🚀 Activities</h2>
 <p align="center">
