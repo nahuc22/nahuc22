@@ -105,5 +105,5 @@ I'm a software engineer, specializing in backend development and distributed sys
 
 <h2 align="center">🚀 Activities</h2>
 <p align="center">
-  <a href="#" alt="mehdi hadeli's github stats"><img src="https://github-readme-stats.vercel.app/api?username=mehdihadeli" /></a>
+  <a href="#" alt="nahuel castilla's github stats"><img src="https://github-readme-stats.vercel.app/api?username=nahuc22" /></a>
 </p>
