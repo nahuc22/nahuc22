@@ -5,20 +5,14 @@
 I'm a software engineer, specializing in backend development and distributed systems. I have extensive experience in designing and implementing resilient, responsive, scalable, and maintainable systems using C#, .NET, Golang on top of cutting-edge technologies. My interests include microservices, system design, software architecture, domain driven design (DDD), event sourcing, CQRS, DevOps. I love learning, sharing, and facing challenges. Last but not least, I am also an open-source enthusiast.
 
 <p align="center"> 
- <a href="https://twitter.com/mehdi_hadeli" alt="mehdi hadeli's twitter">
-   <img src="https://img.shields.io/badge/%20-Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
- </a>
- <a href="https://mehdihadeli.com" alt="mehdi hadeli's blog">
-   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blog&color=%23F58025&logo=rss&logoColor=FFFFFF&label=" />
- </a>
-  <a href="https://www.youtube.com/mehdihadeli" alt="mehdi hadeli's youtube">
-   <img src="https://img.shields.io/badge/%20-YouTube-%23FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
- </a>
- <a href="https://github.com/mehdihadeli" alt="mehdi hadeli's github">
+ <a href="https://instagram.com/nahucastilla_" alt="Instagram">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="30" height="30" style="margin-right: 10px;">
+  </a>
+ <a href="https://github.com/nahuc22" alt="nahuel castilla github">
    <img src="https://img.shields.io/badge/%20-GitHub-black?logo=GitHub&logoColor=white&style=for-the-badge" />
  </a>
- <a href="https://www.linkedin.com/in/mehdihadeli" alt="mehdi hadeli's linkedin">
-   <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/mehdihadeli" />
+ <a href="https://www.linkedin.com/in/nahuel-castilla-dev" alt="nahuel castilla's linkedin">
+   <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/nahuel-castilla-dev" />
  </a>
  <a href="https://mehdihadeli.netlify.app" alt="mehdi hadeli's blog">
    <img src="tps://img.shields.io/badge/%20-Blog-%23FF5722?logo=blogger&logoColor=white&style=for-the-badge" />
@@ -31,11 +25,11 @@ I'm a software engineer, specializing in backend development and distributed sys
 <h2 align="center">🛠 Technologies & Skils</h2>
 
 <p align="center">
-    <a href="https://es.react.dev/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="54" height="54" style="vertical-align:top; margin:4px;">
-    </a>
     <a href="https://expressjs.com/es/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" width="54" height="54" style="vertical-align:top; margin:4px; filter: invert(1);">
+    </a>
+    <a href="https://es.react.dev/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="54" height="54" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
