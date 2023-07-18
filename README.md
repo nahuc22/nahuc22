@@ -34,14 +34,9 @@ I'm a software engineer, specializing in backend development and distributed sys
     <a href="https://es.react.dev/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="54" height="54" style="vertical-align:top; margin:4px;">
     </a>
-    <style>
-    .logo-inverted {
-        filter: invert(1);
-    }
-    </style>
     <a href="https://expressjs.com/es/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" width="54" height="54" style="vertical-align:top; margin:4px;" class="logo-inverted">
-    </a>    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" width="54" height="54" style="vertical-align:top; margin:4px; filter: invert(1);">
+    </a>
     <a href="https://dotnet.microsoft.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="54"
             height="54" alt="dotnet" style="vertical-align:top; margin:4px;">
