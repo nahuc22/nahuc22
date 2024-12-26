@@ -69,9 +69,13 @@ As a Fullstack developer, I am capable of designing, developing, and deploying w
 
 - 🚀 [nahuc22/Proyecto-final](https://github.com/nahuc22/Proyecto-final)
 - ⚡ [nahuc22/pokemon](https://github.com/nahuc22/pokemon)
-- 🌎 [nahuc22/countries](https://github.com/nahuc22/countries)
-- 🧪 [nahuc22/rickimorti](https://github.com/nahuc22/rickimorti)
 - 📁 [nahuc22/portfolio](https://github.com/nahuc22/portfolio)
+
+<p>
+Contributor
+</p>
+
+- 🌎 [Lizhana/oaa-web/](https://github.com/lizhana/oaa-web)
 
 <h2 align="center">🚀 Activities</h2>
 <p align="center">
