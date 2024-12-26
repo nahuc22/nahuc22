@@ -67,15 +67,20 @@ As a Fullstack developer, I am capable of designing, developing, and deploying w
   I always make sure that I find enough time for open source contribution that also helps me expand my knowledge and work with other developers and team globally. here are some of my projects:
 </p>
 
-- 🚀 [nahuc22/Proyecto-final](https://github.com/nahuc22/Proyecto-final)
-- ⚡ [nahuc22/pokemon](https://github.com/nahuc22/pokemon)
-- 📁 [nahuc22/portfolio](https://github.com/nahuc22/portfolio)
+<ul>
+  <li>🚀 <a href="https://github.com/nahuc22/Proyecto-final" target="_blank" rel="noopener noreferrer">nahuc22/proyecto-final</a></li>
+  <li>⚡ <a href="https://github.com/nahuc22/pokemon" target="_blank" rel="noopener noreferrer">nahuc22/pokemon</a></li>
+  <li>📁 <a href="https://github.com/nahuc22/portfolio" target="_blank" rel="noopener noreferrer">nahuc22/portfolio</a></li>
+</ul>
 
 <p>
-Contributor
+  Contributor
 </p>
 
-- 🌎 [Lizhana/oaa-web/](https://github.com/lizhana/oaa-web)
+<ul>
+  <li>🌎 <a href="https://github.com/lizhana/oaa-web" target="_blank" rel="noopener noreferrer">Lizhana/oaa-web</a></li>
+</ul>
+
 
 <h2 align="center">🚀 Activities</h2>
 <p align="center">
