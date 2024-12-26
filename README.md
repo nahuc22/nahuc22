@@ -68,9 +68,9 @@ As a Fullstack developer, I am capable of designing, developing, and deploying w
 </p>
 
 <ul>
-  <li>🚀 <a href="https://github.com/nahuc22/Proyecto-final" target="_blank" rel="noopener noreferrer">nahuc22/proyecto-final</a></li>
-  <li>⚡ <a href="https://github.com/nahuc22/pokemon" target="_blank" rel="noopener noreferrer">nahuc22/pokemon</a></li>
-  <li>📁 <a href="https://github.com/nahuc22/portfolio" target="_blank" rel="noopener noreferrer">nahuc22/portfolio</a></li>
+  <li>🚀 <a href="https://github.com/nahuc22/Proyecto-final" target="_blank" rel="noopener noreferrer">[nahuc22]/[proyecto-final]</a> -  https://ambientalistas.org.ar/</li>
+  <li>⚡ <a href="https://github.com/nahuc22/pokemon" target="_blank" rel="noopener noreferrer">[nahuc22]/[pokemon]</a> - https://pokemon-three-zeta.vercel.app/</li>
+  <li>📁 <a href="https://github.com/nahuc22/portfolio" target="_blank" rel="noopener noreferrer">[nahuc22]/[portfolio]</a> - https://portfolio-nahu.vercel.app/</li>
 </ul>
 
 <p>
@@ -78,7 +78,7 @@ As a Fullstack developer, I am capable of designing, developing, and deploying w
 </p>
 
 <ul>
-  <li>🌎 <a href="https://github.com/lizhana/oaa-web" target="_blank" rel="noopener noreferrer">Lizhana/oaa-web</a></li>
+  <li>🌎 <a href="https://github.com/lizhana/oaa-web" target="_blank" rel="noopener noreferrer">[Lizhana]/[oaa-web]</a> - https://ambientalistas.org.ar/</li>
 </ul>
 
 
