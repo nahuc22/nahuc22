@@ -1,4 +1,14 @@
+ <style>
+    /* Quitar el color azul y el subrayado de los enlaces */
+    a {
+      text-decoration: none;  /* Elimina el subrayado */
+      color: inherit;         /* Toma el color del texto que lo rodea */
+    }
 
+    a:hover {
+      color: #0077cc;         /* Puedes cambiar el color al pasar el mouse */
+    }
+  </style>
 <h1 align="center">Hi there, I'm Nahuel Castilla 👋</h1>
 
 As a Fullstack developer, I am capable of designing, developing, and deploying web and mobile applications that meet client needs and provide an exceptional user experience. With skills in multiple programming languages and tools, I have the ability to work on both the frontend and backend layers, allowing me to have a comprehensive view of the project and work on all its stages.
@@ -68,7 +78,7 @@ As a Fullstack developer, I am capable of designing, developing, and deploying w
 </p>
 
 <ul>
-  <li>🚀 <a href="https://github.com/nahuc22/Proyecto-final" target="_blank" rel="noopener noreferrer">[nahuc22]/[proyecto-final]</a> -  https://ambientalistas.org.ar/</li>
+  <li>🚀 <a href="https://github.com/nahuc22/Proyecto-final" target="_blank" rel="noopener noreferrer">[nahuc22]/[proyecto-final]</a> -  https://pet-connect-rescue.vercel.app/</li>
   <li>⚡ <a href="https://github.com/nahuc22/pokemon" target="_blank" rel="noopener noreferrer">[nahuc22]/[pokemon]</a> - https://pokemon-three-zeta.vercel.app/</li>
   <li>📁 <a href="https://github.com/nahuc22/portfolio" target="_blank" rel="noopener noreferrer">[nahuc22]/[portfolio]</a> - https://portfolio-nahu.vercel.app/</li>
 </ul>
