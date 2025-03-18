@@ -79,9 +79,3 @@ As a Fullstack developer, I am capable of designing, developing, and deploying w
 <ul>
   <li>🌎 <a href="https://github.com/lizhana/oaa-web" target="_blank" rel="noopener noreferrer">[Lizhana]/[oaa-web]</a> - https://ambientalistas.org.ar/</li>
 </ul>
-
-
-<h2 align="center">🚀 Activities</h2>
-<p align="center">
-  <a href="#" alt="nahuel castilla's github stats"><img src="https://github-readme-stats.vercel.app/api?username=nahuc22" /></a>
-</p>
